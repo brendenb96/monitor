@@ -9,8 +9,8 @@ import requests
 from requests.auth import HTTPDigestAuth
 import subprocess
 
-#db_name = '/home/brenden/django-test/mysite/db.sqlite3'
-db_name = '/var/www/mysite/db.sqlite3'
+db_name = '/home/brenden/Programs/django_database/db.sqlite3'
+#db_name = '/var/www/mysite/db.sqlite3'
 
 def update_db():
 
